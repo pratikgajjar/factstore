@@ -1,2 +1,2 @@
 # factstore
-Open source event (fact) sourcing db written in RUST
+Open source distributed event (fact) sourcing database written in #rust
